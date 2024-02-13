@@ -14,7 +14,7 @@ import { Input } from "@/components/input";
 import { Button } from "@/components/button";
 import { LinkButton } from "@/components/link-button";
 
-const PHONE_NUMBER = "351928095537"
+const PHONE_NUMBER = "000000000"
 
 export default function Cart() {
 
